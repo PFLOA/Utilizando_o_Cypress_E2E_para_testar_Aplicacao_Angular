@@ -1,2 +1,8 @@
-# Utilizando_o_Cypress_E2E_para_testar_Aplicacao_Angular
-Utilizando o Cypress E2E para testar um Blog em Angular
+# Utilizando o Cypress E2E para testar um Blog em Angular
+
+```diff
+@@The web has evolved.\n
+Finally, testing has too.@@
+```
+A web evoluiu.
+Finalmente, o teste também.
